@@ -4,7 +4,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 nav.navbar{
-    background-color: #36b8de;
+    color: #36b8de;
 }
 nav.navbar a{
     float: left;
